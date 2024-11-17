@@ -8,7 +8,7 @@ Frontend Developer with experienced in creating dynamic, user-friendly web appli
 * ✉️  You can contact me at [bragatheeshp@gmail.com](mailto:bragatheeshp@gmail.com)
 * 🚀  I'm currently working on [Capecom Solutions](https://www.capecom.co.uk/)
 * 🧠  I'm learning Python , Fast API ,Django
-* 🤝  I'm open to collaborating on I'm open to collaborating on Exploring new technology projects
+* 🤝  I'm open to collaborating on Exploring new technology projects
 
 ### Skills
 
