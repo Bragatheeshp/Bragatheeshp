@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 Frontend Developer
 ------------------
-Frontend Developer with experienced in creating dynamic, user-friendly web applications. Expert in React, Next.js, and Redux, with a strong background in JIRA methodologies. Successfully enhanced performance by 30% and improved user engagement on e-commerce platforms. Proficient in developing cross-browser compatible and responsive interfaces, ensuring a seamless user experience. Skilled in RESTful APIs, real-time communication, and state management, delivering high-quality, scalable solutions.
+Frontend Developer with experienced in creating dynamic, user-friendly web applications. Expert in React, Next.js,Three.js and Redux, with a strong background in JIRA methodologies. Successfully enhanced performance by 30% and improved user engagement on e-commerce platforms. Proficient in developing cross-browser compatible and responsive interfaces, ensuring a seamless user experience. Skilled in RESTful APIs, real-time communication, and state management, delivering high-quality, scalable solutions.
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortFolio](https://bragathezz-portfolio.vercel.app/)
 * ✉️  You can contact me at [bragatheeshp@gmail.com](mailto:bragatheeshp@gmail.com)
